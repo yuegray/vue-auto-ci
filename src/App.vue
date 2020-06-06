@@ -10,6 +10,7 @@ export default {
   name: 'App',
   mounted () {
     console.log('ssss')
+    console.log(111)
   }
 }
 </script>
